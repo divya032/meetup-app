@@ -46,7 +46,7 @@ function NewMeetupForm(props) {
           ></input>
         </div>
         <div className={classes.control}>
-          <label htmlFor="description">Meetup Title</label>
+          <label htmlFor="description">Meetup description</label>
           <textarea
             required
             id="description"
