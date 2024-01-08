@@ -1,4 +1,4 @@
-### Meetup app [Check here](meetup-app-01ab5c.netlify.app/)
+### Meetup app [Check here](https://meetup-app-01ab5c.netlify.app/)
 
 **The meetup app is created using React.js and Firebase**
 
